@@ -10,7 +10,7 @@
   <h2 align="center">📧 Email 📧</h2>
 </div>
 <p align="center">
-  <strong>lily034686@naver.com</strong>
+  <strong>lily034686@gmail.com</strong>
 </p><br>
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
